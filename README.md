@@ -11,6 +11,12 @@ I love building small projects, experimenting with new tech, and sharing my jour
 ### 🌍 Languages I’m exploring
 - 📚 Japanese 🇯🇵 | German 🇩🇪 | French 🇫🇷
 
+### 🎨 Interests
+- Music 🎵  
+- Reading 📚  
+- Gaming 🎮  
+- Traveling ✈️
+
 ### ✨ Fun Fact
 🧩 I enjoy mixing creativity with logic, whether in code, design, or learning something new.
 <!--
