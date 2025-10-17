@@ -9,10 +9,10 @@ I love building small projects, experimenting with new tech, and sharing my jour
 - **Others:** Git, GitHub, Linux, VS Code
 
 ### 🌍 Languages I’m exploring
-- Japanese 🇯🇵 | German 🇩🇪 | French 🇫🇷
+- 📚 Japanese 🇯🇵 | German 🇩🇪 | French 🇫🇷
 
 ### ✨ Fun Fact
-I enjoy mixing creativity with logic, whether in code, design, or learning something new.
+🧩 I enjoy mixing creativity with logic, whether in code, design, or learning something new.
 <!--
 **asiq13096/asiq13096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
