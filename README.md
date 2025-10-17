@@ -21,6 +21,9 @@ I love building small projects, experimenting with new tech, and sharing my jour
 🧩 I enjoy mixing creativity with logic, whether in code, design, or learning something new.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=tensorflow&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F61?style=flat&logo=opencv&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -30,6 +33,8 @@ I love building small projects, experimenting with new tech, and sharing my jour
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=flat&logo=googlesheets&logoColor=white)
 <!--
 **asiq13096/asiq13096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
