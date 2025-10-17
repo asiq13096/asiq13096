@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a lifelong learner exploring the worlds of **coding** and **languages**.  
+I love building small projects, experimenting with new tech, and sharing my journey.  
 <!--
 **asiq13096/asiq13096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
