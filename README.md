@@ -1,7 +1,18 @@
 ## Hi there 👋
 
 I'm a lifelong learner exploring the worlds of **coding** and **languages**.  
-I love building small projects, experimenting with new tech, and sharing my journey.  
+I love building small projects, experimenting with new tech, and sharing my journey.
+
+### 🔧 Tech & Tools
+- **Languages:** C/C++, C#, Java, Python, JavaScript, HTML/CSS
+- **Databases:** MSSQL, MySQL, MongoDB
+- **Others:** Git, GitHub, Linux, VS Code
+
+### 🌍 Languages I’m exploring
+- Japanese 🇯🇵 | German 🇩🇪 | French 🇫🇷
+
+### ✨ Fun Fact
+I turn **coffee into code ☕💻** and enjoy learning something new every day!
 <!--
 **asiq13096/asiq13096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
