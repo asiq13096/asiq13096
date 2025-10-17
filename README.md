@@ -19,6 +19,8 @@ I love building small projects, experimenting with new tech, and sharing my jour
 
 ### ✨ Fun Fact
 🧩 I enjoy mixing creativity with logic, whether in code, design, or learning something new.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 <!--
 **asiq13096/asiq13096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
