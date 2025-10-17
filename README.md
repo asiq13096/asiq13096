@@ -12,7 +12,7 @@ I love building small projects, experimenting with new tech, and sharing my jour
 - Japanese 🇯🇵 | German 🇩🇪 | French 🇫🇷
 
 ### ✨ Fun Fact
-I turn **coffee into code ☕💻** and enjoy learning something new every day!
+I enjoy mixing creativity with logic, whether in code, design, or learning something new.
 <!--
 **asiq13096/asiq13096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
