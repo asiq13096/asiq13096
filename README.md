@@ -4,7 +4,7 @@ I'm a lifelong learner exploring the worlds of **coding** and **languages**.
 I love building small projects, experimenting with new tech, and sharing my journey.
 
 ### 🔧 Tech & Tools
-- **Languages:** C/C++, C#, Java, Python, JavaScript, HTML/CSS
+- **Languages:** Python, C/C++, C#, Java, JavaScript, HTML/CSS
 - **Databases:** MSSQL, MySQL, MongoDB
 - **Others:** Git, GitHub, Linux, VS Code
 
