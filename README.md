@@ -35,6 +35,7 @@ I love building small projects, experimenting with new tech, and sharing my jour
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=flat&logo=googlesheets&logoColor=white)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 <!--
 **asiq13096/asiq13096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
