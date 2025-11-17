@@ -9,7 +9,7 @@ I love building small projects, experimenting with new tech, and sharing my jour
 - **Others:** Git, GitHub, Linux, VS Code
 
 ### 🌍 Languages I’m exploring
-- 📚 Japanese 🇯🇵 | German 🇩🇪 | French 🇫🇷
+- 📚 | German 🇩🇪 | Japanese 🇯🇵 | French 🇫🇷
 
 ### 🎨 Interests
 - Music 🎵  
